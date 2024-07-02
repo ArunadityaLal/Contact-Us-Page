@@ -1,0 +1,19 @@
+nav {
+    height: 72px;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.logo {
+    display: flex;
+    margin-left: -100px;
+
+}
+
+ul {
+    display: flex;
+    justify-content: right;
+    list-style-type: none;
+    gap: 34px;
+    margin-top: -40px;
+} 
